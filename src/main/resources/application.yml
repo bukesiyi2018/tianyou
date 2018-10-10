@@ -1,0 +1,8 @@
+spring:
+ datasource:
+  url: jdbc:mysql://localhost:3306/py?useUnicode=true&characterEncoding=utf8
+  driverClassName: com.mysql.jdbc.Driver
+  username: root
+  password: root
+server:
+ port: 8088
